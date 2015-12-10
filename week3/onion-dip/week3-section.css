@@ -1,0 +1,33 @@
+body {
+	background: #ccc;
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.container {
+	margin: 0 auto;
+	width: 700 px;
+	margin: T L B R;
+	padding-top: 200px;
+	background: #fff url(alton-brown-dip.jpg) no-repeat top center;
+	border-top: 10px solid #424242
+}
+
+.recipe {
+	/* add 5 more attributes to this section */
+	padding: 20px 40px
+	background: #fff;
+}
+
+.recipe h1 {
+	/* or this */
+	padding: 20px;
+	text-decoration: underline;
+}
+
+.recipe h2 {
+	/* or this */
+	padding: 40px;
+	text-decoration: oblique;
+	font-weight: normal;
+}
